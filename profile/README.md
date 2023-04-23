@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://cdn.mule.co.kr/data/original/2022/05/20/40a51bd0-d7a9-11ec-87e6-9dfd173fd74d.gif">
+  <img src="https://images.unsplash.com/photo-1550948537-130a1ce83314?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3872&q=80">
   
   <br/>
   <br/>
   
-  복숭아, 공부하자
-</div>
+  공부하자.
+</div> 
